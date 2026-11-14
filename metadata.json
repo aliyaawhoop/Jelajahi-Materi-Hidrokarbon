@@ -1,0 +1,6 @@
+{
+  "name": "Jelajahi Dunia Hidrokarbon",
+  "description": "Media pembelajaran interaktif kimia SMA/MA Kelas XI materi senyawa hidrokarbon dengan tema galaksi yang ramah dan mudah dipahami siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
